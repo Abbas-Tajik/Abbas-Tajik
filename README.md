@@ -30,10 +30,11 @@ I will continue updating these as I progress through the course, and beyond.</p>
 
 <ul>
   <li>
-    <h3>🤖 Robot Can Picker (Bender V1_3)</h3>
-    <p>
+     <h3>🤖 Robot Can Picker (Bender V1_3)</h3>
+    <p align="center">
       <img src="https://img.shields.io/badge/Category-Robotics-555" />
-      <img src="https://img.shields.io/badge/Skills-Mechanics%20%7C%20Sensors%20%7C%20Automation-555" />
+      <img src="https://img.shields.io/badge/Skills-Python%20%7C%20Algorithm%20Design-555" />
+      <img src="https://img.shields.io/badge/Tools-VS%20Code-555" />
     </p>
     <p>
       <a href="https://github.com/Abbas-Tajik/Project-001-Robotics.git">View Repository</a>  
