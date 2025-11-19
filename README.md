@@ -18,7 +18,9 @@
 </p>
   
 <p align="center">
-  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/I5FxF0d2H2U/0.jpg)](https://www.youtube.com/watch?v=I5FxF0d2H2U)
+  <a href="https://www.youtube.com/watch?v=I5FxF0d2H2U">
+    <img src="https://img.youtube.com/vi/I5FxF0d2H2U/0.jpg" alt="Video Thumbnail">
+  </a>
 </p>
 
 <hr/>
