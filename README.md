@@ -1,4 +1,4 @@
-<h1 align="center">Greetings, Human. I am Abbas of Borg. You will be assimilated. Resistance is futile! 🖖</h1>
+<h1 align="center">Greetings, Human. I am Abbas of Borg. You will be assimilated. Resistance is futile! 🤖 </h1>
 
 <p align="center">
   <strong>Aspiring Robotics & AI Engineer</strong><br>
