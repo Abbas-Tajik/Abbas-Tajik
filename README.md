@@ -24,7 +24,7 @@
 
 <hr/>
 
-<h2>📂 Featured Work & Projects</h2>
+<h2>📂 Featured Projects</h2>
 <p>Below are some of the technical projects I've recently completed as part of my studies.  
 I will continue updating these as I progress through the course, and beyond.</p>
 
@@ -34,7 +34,6 @@ I will continue updating these as I progress through the course, and beyond.</p>
     <p>
       <img src="https://img.shields.io/badge/Category-Robotics-555" />
       <img src="https://img.shields.io/badge/Skills-Mechanics%20%7C%20Sensors%20%7C%20Automation-555" />
-      <img src="https://img.shields.io/badge/Tools-Microcontroller-555" />
     </p>
     <p>
       <a href="https://github.com/Abbas-Tajik/Project-001-Robotics.git">View Repository</a>  
@@ -56,7 +55,7 @@ I will continue updating these as I progress through the course, and beyond.</p>
   </li>
 
   <li>
-    <h3>🧠 Supervised & Unsupervised ML (AT_Penguins_ML_V1 & AT_Titanic_ML_V1)</h3>
+    <h3>🧠 Supervised & Unsupervised ML (Penguins & Titanic)</h3>
     <p>
       <img src="https://img.shields.io/badge/Category-Machine%20Learning-555" />
       <img src="https://img.shields.io/badge/Techniques-Supervised%20%7C%20Unsupervised-555" />
