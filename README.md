@@ -24,11 +24,11 @@
 
 <hr/>
 
-<h2>📂 Coursework & Assignments</h2>
-<p>Below are some of the technical assignments I've recently completed as part of my studies.  
-I will continue updating these as I progress through the course.</p>
+<h2>📂 Projects</h2>
+<p>Below are some of the technical projects I've recently completed as part of my studies.  
+I will continue updating these as I progress through the course, and beyond.</p>
 
-<h3>1. Assignment: Robot Can Picker (Bender V1_3)</h3>
+<h3>1. Robot Can Picker (Bender V1_3)</h3>
 <p>
   This task introduced me to the basics of robotics and simple automation. I built a small setup that could
   identify and pick up a can from a fixed position, mainly focusing on getting the movement and sensing
@@ -36,7 +36,7 @@ I will continue updating these as I progress through the course.</p>
   mechanical and electronic parts behaved together. It was my first proper hands-on robotics exercise.
 </p>
 
-<h3>2. Assignment: Exploring the Titanic Dataset (Seaborn & Pandas)</h3>
+<h3>2. Exploring the Titanic Dataset (Seaborn & Pandas)</h3>
 <p>
   This assignment was centred around exploring the Titanic dataset using Pandas and Seaborn. I cleaned and
   inspected the data, created a range of visualisations, and looked at patterns such as survival rates
@@ -44,8 +44,7 @@ I will continue updating these as I progress through the course.</p>
   presenting findings clearly.
 </p>
 
-<h3>3. Assignment: Supervised & Unsupervised Machine Learning
-<br>(AT_Penguins_ML_V1 & AT_Titanic_ML_V1)</h3>
+<h3>3. Supervised & Unsupervised Machine Learning</h3>
 <p>
   Here I worked with both supervised and unsupervised learning techniques on the Penguins and Titanic
   datasets. I prepared the data, selected features, trained a few different models, and compared their
@@ -53,7 +52,7 @@ I will continue updating these as I progress through the course.</p>
   It gave me a good foundation in building simple ML workflows.
 </p>
 
-<h3>4. Assignment: Neural Networks & Deep Learning (PyTorch Demo)</h3>
+<h3>4. Neural Networks & Deep Learning (PyTorch Demo)</h3>
 <p>
   This assignment introduced me to neural networks using PyTorch. I built a straightforward feed-forward
   model and trained it to see how each part of the process works — from tensors and layers to loss and
@@ -82,4 +81,4 @@ I will continue updating these as I progress through the course.</p>
 <li>LinkedIn: <em> https://www.linkedin.com/in/aat0093/ </em></li>
 </ul>
 
-<p align="center"> The only emotion I wish to convey is gratitude. Thank you, Humans, for your consideration. Live long and prosper. 🖖 </p>
+<p align="center"> **_The only emotion I wish to convey is gratitude. Thank you, Humans, for your consideration. Live long and prosper._** 🖖 </p>
