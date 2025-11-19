@@ -27,39 +27,76 @@
 <h2>📂 Projects</h2>
 <p>Below are some of the technical projects I've recently completed as part of my studies.  
 I will continue updating these as I progress through the course, and beyond.</p>
+<h2 align="center">📁 Featured Work & Assignments</h2>
 
-<h3>1. Robot Can Picker (Bender V1_3)</h3>
-<p>
-  This task introduced me to the basics of robotics and simple automation. I built a small setup that could
-  identify and pick up a can from a fixed position, mainly focusing on getting the movement and sensing
-  logic working reliably. Most of the work involved testing, adjusting, and understanding how the
-  mechanical and electronic parts behaved together. It was my first proper hands-on robotics exercise.
-</p>
+<ul>
+  <li>
+    <h3>🤖 Robot Can Picker (Bender V1_3)</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Category-Robotics-555" />
+      <img src="https://img.shields.io/badge/Skills-Mechanics%20%7C%20Sensors%20%7C%20Automation-555" />
+      <img src="https://img.shields.io/badge/Tools-Microcontroller-555" />
+    </p>
+    <p>
+      <a href="https://github.com/Abbas-Tajik/Project-001-Robotics.git">View Repository</a>  
+      Built a small robot capable of identifying and picking up a can, focusing on motion and sensor logic, testing, and hands-on robotics experience.
+    </p>
+  </li>
 
-<h3>2. Exploring the Titanic Dataset (Seaborn & Pandas)</h3>
-<p>
-  This assignment was centred around exploring the Titanic dataset using Pandas and Seaborn. I cleaned and
-  inspected the data, created a range of visualisations, and looked at patterns such as survival rates
-  across gender, age, and passenger class. It helped me get comfortable with basic data handling and
-  presenting findings clearly.
-</p>
+  <li>
+    <h3>📊 Exploring the Titanic Dataset (Seaborn & Pandas)</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Category-Data%20Analysis-555" />
+      <img src="https://img.shields.io/badge/Libraries-Pandas%20%7C%20Seaborn-555" />
+      <img src="https://img.shields.io/badge/Skills-EDA%20%7C%20Visualisation-555" />
+    </p>
+    <p>
+      <a href="https://github.com/Abbas-Tajik/Project-002-Titanic-Dataset-Seaborn-Pandas.git">View Repository</a>  
+      Cleaned and explored the Titanic dataset, created visualisations, and analysed survival rates by gender, age, and passenger class.
+    </p>
+  </li>
 
-<h3>3. Supervised & Unsupervised Machine Learning</h3>
-<p>
-  Here I worked with both supervised and unsupervised learning techniques on the Penguins and Titanic
-  datasets. I prepared the data, selected features, trained a few different models, and compared their
-  results. The aim was to understand how the algorithms behaved and what sort of outcomes they produced.
-  It gave me a good foundation in building simple ML workflows.
-</p>
+  <li>
+    <h3>🧠 Supervised & Unsupervised ML (AT_Penguins_ML_V1 & AT_Titanic_ML_V1)</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Category-Machine%20Learning-555" />
+      <img src="https://img.shields.io/badge/Techniques-Supervised%20%7C%20Unsupervised-555" />
+      <img src="https://img.shields.io/badge/Datasets-Penguins%20%7C%20Titanic-555" />
+      <img src="https://img.shields.io/badge/Languages-Python-555" />
+    </p>
+    <p>
+      <a href="https://github.com/Abbas-Tajik/Project-003-ML-Supervised-Unsupervised-Penguins-Titanic.git">View Repository</a>  
+      Applied supervised and unsupervised ML techniques on Penguins and Titanic datasets, preparing data, training models, and comparing results.
+    </p>
+  </li>
 
-<h3>4. Neural Networks & Deep Learning (PyTorch Demo)</h3>
-<p>
-  This assignment introduced me to neural networks using PyTorch. I built a straightforward feed-forward
-  model and trained it to see how each part of the process works — from tensors and layers to loss and
-  optimisation. It was a simple exercise, but it helped me get to grips with how deep learning operates at
-  a basic level.
-</p>
+  <li>
+    <h3>🔬 Neural Networks & Deep Learning (PyTorch Demo)</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Category-Deep%20Learning-555" />
+      <img src="https://img.shields.io/badge/Framework-PyTorch-555" />
+      <img src="https://img.shields.io/badge/Skills-Tensors%20%7C%20Training%20%7C%20Optimisation-555" />
+    </p>
+    <p>
+      <a href="https://github.com/Abbas-Tajik/Project-004-Neural-Networks-Deep-Learning-PyTorch.git">View Repository</a>  
+      Built a simple feed-forward neural network in PyTorch to learn fundamentals of layers, tensors, loss functions, and optimisation.
+    </p>
+  </li>
 
+  <li>
+    <h3>📊 Ensemble Methods Analysis (Robot Execution Failures Dataset)</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Category-Machine%20Learning-555" />
+      <img src="https://img.shields.io/badge/Techniques-Ensemble%20Methods-555" />
+      <img src="https://img.shields.io/badge/Skills-Data%20Preprocessing%20%7C%20Classification-555" />
+      <img src="https://img.shields.io/badge/Languages-Python%20%7C%20Pandas-555" />
+    </p>
+    <p>
+      <a href="https://github.com/Abbas-Tajik/Project-005-Ensemble-Methods-Robot-Execution-Failures.git">View Repository</a>  
+      Applied ensemble learning techniques like bagging and boosting to the Robot Execution Failures dataset, performing preprocessing, feature selection, and performance evaluation.
+    </p>
+  </li>
+</ul>
 
 <hr/>
 
