@@ -24,10 +24,9 @@
 
 <hr/>
 
-<h2>📂 Projects</h2>
+<h2>📂 Featured Work & Projects</h2>
 <p>Below are some of the technical projects I've recently completed as part of my studies.  
 I will continue updating these as I progress through the course, and beyond.</p>
-<h2 align="center">📁 Featured Work & Assignments</h2>
 
 <ul>
   <li>
