@@ -14,6 +14,11 @@
 
 <hr/>
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ I5FxF0d2H2U /0.jpg)](https://www.youtube.com/watch?v= I5FxF0d2H2U)
+</p>
+
+<hr/>
+
 <h2>📌 About Me</h2>
 <ul>
   <li>🔧 10+ years of practical experience in 3D printing, CAD modelling, rapid prototyping, and hobby robotics</li>
