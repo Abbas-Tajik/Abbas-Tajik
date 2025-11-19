@@ -81,4 +81,6 @@ I will continue updating these as I progress through the course, and beyond.</p>
 <li>LinkedIn: <em> https://www.linkedin.com/in/aat0093/ </em></li>
 </ul>
 
+<hr/>
+
 <p align="center"> <strong><em>The only emotion I wish to convey is gratitude. Thank you, Humans, for your consideration. Live long and prosper.</em></strong> 🖖 </p>
