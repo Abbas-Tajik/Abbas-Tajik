@@ -14,7 +14,7 @@
 
 <hr/>
 <p align="center">
-<strong>Click below to see the FlipperZero meme reel made using AI!</strong><br>
+<strong>Click below to see my FlipperZero meme reel made using AI!</strong><br>
 </p>
   
 <p align="center">
