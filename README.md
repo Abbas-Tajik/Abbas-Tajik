@@ -125,7 +125,7 @@ I will continue updating these as I progress through the course, and beyond.</p>
 
 <h2>📫 Contact</h2>
 <ul>
-<li>LinkedIn: <em> https://www.linkedin.com/in/aat0093/ </em></li>
+<li>LinkedIn: <em> https://www.linkedin.com/in/abbas-tajik/ </em></li>
 </ul>
 
 <hr/>
