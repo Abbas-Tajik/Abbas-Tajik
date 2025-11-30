@@ -132,9 +132,8 @@ I will continue updating these as I progress through the course, and beyond.</p>
 
 <p align="center"> <strong><em>The only emotion I wish to convey is gratitude. Thank you, Humans, for your consideration. Live long and prosper.</em></strong> 🖖 </p>
 
-<p align="center"> <strong><em>![](https://komarev.com/ghpvc/?username=Abbas-Tajik&base=151)</em></strong> </p>
-
-  </li>
-</ul>
-
-<hr/>
+<p align="center">
+  <strong><em>
+    <img src="https://komarev.com/ghpvc/?username=Abbas-Tajik&base=151" alt="Profile Views"/>
+  </em></strong>
+</p>
