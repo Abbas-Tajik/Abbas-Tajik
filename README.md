@@ -19,7 +19,7 @@
   
 <p align="center">
   <a href="https://www.youtube.com/watch?v=A1FaLFZFPcU">
-    <img src="https://img.youtube.com/vi/A1FaLFZFPcU/0.jpg" alt="Video Thumbnail">
+    <img src="https://img.youtube.com/vi/A1FaLFZFPcU/1.jpg" alt="Video Thumbnail">
   </a>
 </p>
 
