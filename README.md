@@ -43,12 +43,12 @@ I will continue updating these as I progress through the course, and beyond.</p>
 
   <!-- 1. Robot Execution Failures – End-to-End ML Classification -->
   <li>
-    <h3>🤖 Robot Execution Failures – End-to-End ML Classification</h3>
+    <h3>🤖 Robot Execution Failures – End-to-End Machine Learning Analysis & Experiment</h3>
     <p align="center">
       <img src="https://img.shields.io/badge/Category-Machine%20Learning-555" />
-      <img src="https://img.shields.io/badge/Techniques-Classification%20%7C%20Model%20Comparison-555" />
-      <img src="https://img.shields.io/badge/Skills-EDA%20%7C%20Preprocessing%20%7C%20Model%20Evaluation-555" />
-      <img src="https://img.shields.io/badge/Languages-Python%20%7C%20Pandas%20%7C%20scikit--learn-555" />
+      <img src="https://img.shields.io/badge/Techniques-Ensemble%20Methods-555" />
+      <img src="https://img.shields.io/badge/Skills-Data%20Preprocessing%20%7C%20Robotics-555" />
+      <img src="https://img.shields.io/badge/Languages-Python%20%7C%20C++-555" />
     </p>
     <p>
       <a href="https://github.com/Abbas-Tajik/Project-006-ML-Robot-Failures-Experiment.git">View Repository</a>  
