@@ -14,7 +14,7 @@
 
 <hr/>
 <p align="center">
-  <strong>Please click below to see my 3D-printed robot arm ML failure prediction simulator!</strong><br>
+  <strong>Please click below to see my 3D-printed predictive maintenance robot arm – end-to-end machine learning experiment!</strong><br>
 </p>
   
 <p align="center">
