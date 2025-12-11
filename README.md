@@ -1,4 +1,4 @@
-<h1 align="center">Greetings, Human. I am Abbas of Borg. You will be assimilated. Resistance is futile! 🤖 </h1>
+<h1 align="center">Greetings and salutations. I'm Abbas — building, optimising, and innovating for a better future. 🤖</h1>
 
 <p align="center">
   <strong>Aspiring Robotics & AI Engineer</strong><br>
@@ -14,12 +14,12 @@
 
 <hr/>
 <p align="center">
-<strong>Click below to see my FlipperZero meme reel made using AI!</strong><br>
+  <strong>Please click below to see my 3D-printed robot arm ML failure prediction simulator!</strong><br>
 </p>
   
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=I5FxF0d2H2U">
-    <img src="https://img.youtube.com/vi/I5FxF0d2H2U/0.jpg" alt="Video Thumbnail">
+  <a href="https://www.youtube.com/watch?v=A1FaLFZFPcU">
+    <img src="https://img.youtube.com/vi/A1FaLFZFPcU/0.jpg" alt="Video Thumbnail">
   </a>
 </p>
 
@@ -40,32 +40,53 @@
 I will continue updating these as I progress through the course, and beyond.</p>
 
 <ul>
+
+  <!-- 1. Robot Execution Failures – End-to-End ML Classification -->
   <li>
-     <h3>🤖 Robot Can Picker (Bender V1_3)</h3>
+    <h3>🤖 Robot Execution Failures – End-to-End ML Classification</h3>
     <p align="center">
-      <img src="https://img.shields.io/badge/Category-Robotics-555" />
-      <img src="https://img.shields.io/badge/Skills-Python%20%7C%20Algorithm%20Design-555" />
-      <img src="https://img.shields.io/badge/Tools-VS%20Code-555" />
+      <img src="https://img.shields.io/badge/Category-Machine%20Learning-555" />
+      <img src="https://img.shields.io/badge/Techniques-Classification%20%7C%20Model%20Comparison-555" />
+      <img src="https://img.shields.io/badge/Skills-EDA%20%7C%20Preprocessing%20%7C%20Model%20Evaluation-555" />
+      <img src="https://img.shields.io/badge/Languages-Python%20%7C%20Pandas%20%7C%20scikit--learn-555" />
     </p>
     <p>
-      <a href="https://github.com/Abbas-Tajik/Project-001-Robotics.git">View Repository</a>  
-      Built a small robot capable of identifying and picking up a can, focusing on motion and sensor logic, testing, and hands-on robotics experience.
+      <a href="https://github.com/Abbas-Tajik/Project-006-ML-Robot-Failures-Experiment.git">View Repository</a>  
+      Completed an end-to-end ML project using the Robot Execution Failures dataset: parsed and cleaned complex sensor data, carried out exploratory analysis, trained and compared multiple models, and interpreted results to understand how robots behave under different failure modes.  
+      Includes a physical Arduino robot arm demonstration showing how these failure patterns manifest in practice.
     </p>
   </li>
 
+  <!-- 2. Ensemble Methods Analysis -->
   <li>
-    <h3>📊 Exploring the Titanic Dataset (Seaborn & Pandas)</h3>
+    <h3>📊 Ensemble Methods Analysis (Robot Execution Failures Dataset)</h3>
     <p>
-      <img src="https://img.shields.io/badge/Category-Data%20Analysis-555" />
-      <img src="https://img.shields.io/badge/Libraries-Pandas%20%7C%20Seaborn-555" />
-      <img src="https://img.shields.io/badge/Skills-EDA%20%7C%20Visualisation-555" />
+      <img src="https://img.shields.io/badge/Category-Machine%20Learning-555" />
+      <img src="https://img.shields.io/badge/Techniques-Ensemble%20Methods-555" />
+      <img src="https://img.shields.io/badge/Skills-Data%20Preprocessing%20%7C%20Classification-555" />
+      <img src="https://img.shields.io/badge/Languages-Python%20%7C%20Pandas-555" />
     </p>
     <p>
-      <a href="https://github.com/Abbas-Tajik/Project-002-Titanic-Dataset-Seaborn-Pandas.git">View Repository</a>  
-      Cleaned and explored the Titanic dataset, created visualisations, and analysed survival rates by gender, age, and passenger class.
+      <a href="https://github.com/Abbas-Tajik/Project-005-Ensemble-Methods-Robot-Execution-Failures.git">View Repository</a>  
+      Applied ensemble learning techniques like bagging and boosting to the Robot Execution Failures dataset, performing preprocessing, feature selection, and performance evaluation.
     </p>
   </li>
 
+  <!-- 3. Neural Networks & Deep Learning -->
+  <li>
+    <h3>🔬 Neural Networks & Deep Learning (PyTorch Demo)</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Category-Deep%20Learning-555" />
+      <img src="https://img.shields.io/badge/Framework-PyTorch-555" />
+      <img src="https://img.shields.io/badge/Skills-Tensors%20%7C%20Training%20%7C%20Optimisation-555" />
+    </p>
+    <p>
+      <a href="https://github.com/Abbas-Tajik/Project-004-Neural-Networks-Deep-Learning-PyTorch.git">View Repository</a>  
+      Built a simple feed-forward neural network in PyTorch to learn fundamentals of layers, tensors, loss functions, and optimisation.
+    </p>
+  </li>
+
+  <!-- 4. Supervised & Unsupervised ML -->
   <li>
     <h3>🧠 Supervised & Unsupervised ML (Penguins & Titanic)</h3>
     <p>
@@ -80,32 +101,34 @@ I will continue updating these as I progress through the course, and beyond.</p>
     </p>
   </li>
 
+  <!-- 5. Exploring the Titanic Dataset -->
   <li>
-    <h3>🔬 Neural Networks & Deep Learning (PyTorch Demo)</h3>
+    <h3>📊 Exploring the Titanic Dataset (Seaborn & Pandas)</h3>
     <p>
-      <img src="https://img.shields.io/badge/Category-Deep%20Learning-555" />
-      <img src="https://img.shields.io/badge/Framework-PyTorch-555" />
-      <img src="https://img.shields.io/badge/Skills-Tensors%20%7C%20Training%20%7C%20Optimisation-555" />
+      <img src="https://img.shields.io/badge/Category-Data%20Analysis-555" />
+      <img src="https://img.shields.io/badge/Libraries-Pandas%20%7C%20Seaborn-555" />
+      <img src="https://img.shields.io/badge/Skills-EDA%20%7C%20Visualisation-555" />
     </p>
     <p>
-      <a href="https://github.com/Abbas-Tajik/Project-004-Neural-Networks-Deep-Learning-PyTorch.git">View Repository</a>  
-      Built a simple feed-forward neural network in PyTorch to learn fundamentals of layers, tensors, loss functions, and optimisation.
+      <a href="https://github.com/Abbas-Tajik/Project-002-Titanic-Dataset-Seaborn-Pandas.git">View Repository</a>  
+      Cleaned and explored the Titanic dataset, created visualisations, and analysed survival rates by gender, age, and passenger class.
     </p>
   </li>
 
+  <!-- 6. Robot Can Picker -->
   <li>
-    <h3>📊 Ensemble Methods Analysis (Robot Execution Failures Dataset)</h3>
-    <p>
-      <img src="https://img.shields.io/badge/Category-Machine%20Learning-555" />
-      <img src="https://img.shields.io/badge/Techniques-Ensemble%20Methods-555" />
-      <img src="https://img.shields.io/badge/Skills-Data%20Preprocessing%20%7C%20Classification-555" />
-      <img src="https://img.shields.io/badge/Languages-Python%20%7C%20Pandas-555" />
+     <h3>🤖 Robot Can Picker (Bender V1_3)</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Category-Robotics-555" />
+      <img src="https://img.shields.io/badge/Skills-Python%20%7C%20Algorithm%20Design-555" />
+      <img src="https://img.shields.io/badge/Tools-VS%20Code-555" />
     </p>
     <p>
-      <a href="https://github.com/Abbas-Tajik/Project-005-Ensemble-Methods-Robot-Execution-Failures.git">View Repository</a>  
-      Applied ensemble learning techniques like bagging and boosting to the Robot Execution Failures dataset, performing preprocessing, feature selection, and performance evaluation.
+      <a href="https://github.com/Abbas-Tajik/Project-001-Robotics.git">View Repository</a>  
+      Built a small robot capable of identifying and picking up a can, focusing on motion and sensor logic, testing, and hands-on robotics experience.
     </p>
   </li>
+
 </ul>
 
 <hr/>
