@@ -154,7 +154,7 @@ I will continue updating these as I progress through the course, and beyond.</p>
 
 <hr/>
 
-<p align="center"> <strong><em>The only emotion I wish to convey is gratitude. Thank you, Humans, for your consideration. Live long and prosper.</em></strong> 🖖 </p>
+<p align="center"> <strong><em>The only emotion I wish to convey is gratitude. Live long and prosper.</em></strong> 🖖 </p>
 
 <p align="center">
   <strong><em>
